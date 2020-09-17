@@ -1,4 +1,4 @@
-# CSE2025-Project-2
+# Data-Structers-Project-2
 A project about finding all other sequences that yields same binary search tree topology within Data Structers course.
 
 # How it works
