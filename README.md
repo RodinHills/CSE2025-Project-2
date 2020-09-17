@@ -1,4 +1,4 @@
-# Data-Structers-Project-2
+# Binary-Search-Trees
 A project about finding all other sequences that yields same binary search tree topology within Data Structers course.
 
 # How it works
